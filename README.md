@@ -1,4 +1,4 @@
-# Hi, I'm Prijma Mahatara 
+ Hi, I'm Prijma Mahatara 
 **Business Analytics | Technical Documentation | ERP/SAP Workflow Analysis**
 
 Welcome to my portfolio!  
@@ -6,7 +6,7 @@ I specialize in transforming complex business processes into clear, structured d
 
 ---
 
-## 🔍 What I Do
+ What I Do
 - **Technical Documentation** – SOPs, workflows, system processes, functional specs  
 - **ERP / SAP Analysis** – data validation, master data governance, process mapping  
 - **Business Analytics** – data cleaning, dashboards, forecasting, BI tools  
@@ -14,9 +14,9 @@ I specialize in transforming complex business processes into clear, structured d
 
 ---
 
-## 💼 Professional Experience
+ Professional Experience
 
-### **MilliporeSigma (Merck Group) – Data Management / Technical BA**
+**MilliporeSigma (Merck Group) – Data Management / Technical BA**
 - Documented SAP master-data workflows (LOM_Header, Pack Site, A1 tables, Auto-Release logic)  
 - Created clear documentation for global teams (Dallas, San Diego, China P95, etc.)  
 - Supported ERP, Logility, and KNIME-based projects  
