@@ -22,7 +22,7 @@ I specialize in transforming complex business processes into clear, structured d
 - Supported ERP, Logility, and KNIME-based projects  
 - Collaborated with cross-functional teams on data quality & system improvements  
 
-### **Growth Sellers – HR Assistant Intern**
+### Growth Sellers – HR Assistant Intern
 - Built HR documentation, reports, training materials, and employee process flows  
 - Worked closely with management on data accuracy and workflow improvements  
 
