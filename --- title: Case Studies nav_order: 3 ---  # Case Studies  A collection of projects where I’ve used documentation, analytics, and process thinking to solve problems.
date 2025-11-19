@@ -1,0 +1,27 @@
+---
+title: Master Data Quality Analysis
+parent: Case Studies
+nav_order: 1
+---
+
+# Master Data Quality Analysis
+
+## Problem
+Global SAP master data inconsistencies were causing delays, manual fixes, and confusion between teams.
+
+## Data Sources
+- SAP A1 tables  
+- LOM_Header  
+- Pack Site  
+- Auto-release data  
+
+## Approach
+1. Identified data quality issues across sites  
+2. Cleaned and standardized critical fields  
+3. Documented the end-to-end data flow and ownership  
+4. Shared clear documentation with stakeholders
+
+## Outcome
+- Improved data clarity and trust  
+- Fewer manual corrections  
+- Better shared understanding of how master data supports operations
