@@ -1,0 +1,12 @@
+
+title: "Prijma Mahatara | Documentation & Analytics Portfolio"
+description: "Technical documentation, analytics case studies, and process storytelling."
+
+# Use the Just the Docs theme
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+# Optional basic settings
+search_enabled: true
