@@ -36,11 +36,8 @@ I specialize in transforming complex business processes into clear, structured d
 - **Tools:** SAP, Logility, KNIME, Qlik, Tableau, Power BI, Excel, RapidMiner  
 - **Languages:** Python (basics), SQL (basics), HTML/CSS  
 - **Methods:** Data cleaning, EDA, regression models, classification models  
-- **Documentation:** SOPs, BRDs, PRDs, workflow diagrams, user stories  
-
----
-
-## 📁 Featured Projects (Coming Soon)
+- **Documentation:** ERP Workflow Documentation, Master Data Governance Documentation, System Integration Documentation, SOPs & User Guides for Technical Processes
+-  ## 📁 Featured Projects (Coming Soon)
 - SAP Documentation Library  
 - Business Analytics Projects  
 - Machine Learning Case Studies  
