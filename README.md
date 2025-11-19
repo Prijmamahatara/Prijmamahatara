@@ -26,7 +26,7 @@ I specialize in transforming complex business processes into clear, structured d
 - Built HR documentation, reports, training materials, and employee process flows  
 - Worked closely with management on data accuracy and workflow improvements  
 
-### **Web Content Writer**
+### ** Hansikar Technolgies - Web Content Writer**
 - Developed SEO-friendly content  
 - Wrote structured articles improving clarity, engagement, and reader value  
 
