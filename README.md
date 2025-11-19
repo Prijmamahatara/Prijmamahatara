@@ -1,8 +1,8 @@
-# Hi, I'm Prijma Mahatara 👋  
+# Hi, I'm Prijma Mahatara 
 **Business Analytics | Technical Documentation | ERP/SAP Workflow Analysis**
 
 Welcome to my portfolio!  
-I specialize in transforming complex business processes into clear, structured documentation and data-driven insights. My work blends technical analysis, workflow design, and storytelling — helping teams operate smarter and more efficiently.
+I specialize in transforming complex business processes into clear, structured documentation and data-driven insights. My work blends technical analysis, workflow design, and storytelling  helping teams operate smarter and more efficiently.
 
 ---
 
@@ -57,4 +57,4 @@ I'm an ambitious and motivated Business Analytics professional passionate about 
 **LinkedIn:** (www.linkedin.com/in/prijmamahatara) 
 **Portfolio Website:** (coming soon via GitHub Pages)
 
-Thanks for stopping by! 😊  
+Thanks for stopping by!  
