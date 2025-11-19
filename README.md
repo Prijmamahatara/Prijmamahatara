@@ -14,7 +14,7 @@ I specialize in transforming complex business processes into clear, structured d
 
 ---
 
- ##Professional Experience
+ Professional Experience
 
 **MilliporeSigma (Merck Group) – Data Management / Technical BA**
 - Documented SAP master-data workflows (LOM_Header, Pack Site, A1 tables, Auto-Release logic)  
