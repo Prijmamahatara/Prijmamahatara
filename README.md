@@ -22,14 +22,14 @@ I specialize in transforming complex business processes into clear, structured d
 - Supported ERP, Logility, and KNIME-based projects  
 - Collaborated with cross-functional teams on data quality & system improvements  
 
+
+### Hansikar Technolgies - Web Content Writer
+- Developed SEO-friendly content  
+- Wrote structured articles improving clarity, engagement, and reader value
+  
 ### Growth Sellers – HR Assistant Intern
 - Built HR documentation, reports, training materials, and employee process flows  
-- Worked closely with management on data accuracy and workflow improvements  
-
-### ** Hansikar Technolgies - Web Content Writer**
-- Developed SEO-friendly content  
-- Wrote structured articles improving clarity, engagement, and reader value  
-
+- Worked closely with management on data accuracy and workflow improvements 
 ---
 
 ## 📊 Analytics & Technical Skills
