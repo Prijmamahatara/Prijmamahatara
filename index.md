@@ -5,7 +5,7 @@ nav_order: 1
 
 # Welcome to My Technical Documentation & Analytics Portfolio
 
-Hi, I'm **Prijma Mahatara** — I focus on:
+Hi, I'm **Prijma Mahatara** - I focus on:
 
 - Technical documentation and workflow mapping  
 - Data analysis and dashboard storytelling  
