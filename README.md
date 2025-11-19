@@ -54,7 +54,7 @@ I'm an ambitious and motivated Business Analytics professional passionate about 
 ---
 
 ## 📫 Let’s Connect
-**LinkedIn:** (Add your LinkedIn link here)  
+**LinkedIn:** (www.linkedin.com/in/prijmamahatara  
 **Portfolio Website:** (coming soon via GitHub Pages)
 
 Thanks for stopping by! 😊  
