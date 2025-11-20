@@ -5,10 +5,19 @@ nav_order: 2
 
 # About Me
 
-I'm **Prijma Mahatara**, a Business & Data Analyst focused on:
+I'm **Prijma Mahatara**, a Business Analytics professional with hands-on experience in:
 
-- Technical documentation and workflow mapping  
-- Data analysis and dashboard storytelling  
-- Clear, structured explanations of complex systems  
+- **ERP/SAP data and workflow documentation**
+- **Technical specs and process mapping**
+- **Business analytics, reporting, and data storytelling**
 
-I enjoy turning complex data and systems into documentation that is easy for teams to use, share, and act on.
+Currently, I work as a **Data Management Intern at MilliporeSigma**, where I:
+- Document complex ERP and supply chain processes  
+- Support master data governance and workflow improvements  
+- Collaborate with cross-functional teams to keep systems accurate and efficient  
+
+My background also includes:
+- **Web content writing** – communicating complex ideas clearly and accessibly  
+- **HR assistant experience** – documenting processes, forms, and people workflows  
+
+Bringing together technical and non-technical experience, I focus on **making processes easy to understand, repeat, and improve**.
