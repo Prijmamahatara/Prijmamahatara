@@ -3,17 +3,14 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to My Technical Documentation & Analytics Portfolio
+# Hi, I'm Prijma Mahatara 👋
 
-Hi, I'm **Prijma Mahatara** - I focus on:
+**Business Analytics | Technical Documentation | ERP/SAP Workflow Analysis**
 
-- Technical documentation and workflow mapping  
-- Data analysis and dashboard storytelling  
-- Clear, structured explanations of complex systems  
+Welcome to my professional portfolio.
 
-This site is my working portfolio of:
+I specialize in turning complex ERP/SAP and business processes into clear workflow documentation, technical specs, and analytics-driven insights that help teams work smarter and more confidently.
 
-- Case studies  
-- Process documentation  
-- Dashboards and data stories  
-- Tutorials and explanations  
+Use the left navigation to explore:
+- **About Me** – my background, skills, and tools  
+- **Case Studies** – real documentation and workflow projects I’ve worked on
