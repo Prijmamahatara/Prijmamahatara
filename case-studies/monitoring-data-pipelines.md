@@ -1,6 +1,6 @@
 Monitoring Data Pipeline Health Using Key Metrics and SLAs
 
-Modern organizations rely heavily on data pipelines to power analytics, reporting, and decision-making. When these pipelines fail—or silently degrade—business teams often discover issues too late, after dashboards break or decisions are made on incorrect data. Monitoring data pipeline health is therefore not optional; it is essential.
+Modern organizations rely heavily on data pipelines to power analytics, reporting, and decision-making. When these pipelines fail or silently degrade business teams often discover issues too late, after dashboards break or decisions are made on incorrect data. Monitoring data pipeline health is therefore not optional; it is essential.
 
 This article explains how to monitor data pipelines using key metrics, SLAs, and practical best practices to detect issues early and maintain trust in data systems.
 
@@ -153,6 +153,6 @@ Treat monitoring as part of the data product lifecycle
 
 Conclusion
 
-Reliable data pipelines are the foundation of trustworthy analytics. By monitoring freshness, volume, quality, and performance—and enforcing clear SLAs—teams can detect issues early, reduce operational risk, and ensure data remains a dependable asset.
+Reliable data pipelines are the foundation of trustworthy analytics. By monitoring freshness, volume, quality, and performance and enforcing clear SLAs—teams can detect issues early, reduce operational risk, and ensure data remains a dependable asset.
 
 Effective monitoring turns pipelines from black boxes into observable, resilient systems that scale with business needs.
